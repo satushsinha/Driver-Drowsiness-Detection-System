@@ -1,0 +1,1 @@
+To detect the drowsiness of Driver with openCV and Keras,Using openCV it is detecting the face of a driver and then feed the image of the face to the classifier where it detects whether eyes are open or not.If eyes are close for more than 1 minute,It plays an alarm to awake the driver. 
